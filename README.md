@@ -1,4 +1,4 @@
-# Deep UNet for satellite image segmentation
+# satellite image segmentation
 
 ![banner](https://i.imgur.com/hjITfpc.png)!
 
@@ -18,7 +18,6 @@ This is a Keras based implementation of a deep UNet that performs satellite imag
 * Image augmentation is also done while testing, mean results are exported to result.tif image.
 ![examples](https://i.imgur.com/34lq5bD.jpg)
 
-**Note:** Training for this model was done on a Tesla P100-PCIE-16GB GPU.
 
 ## Prediction Example
 ![prediction example](https://i.imgur.com/CalIxTU.png)
